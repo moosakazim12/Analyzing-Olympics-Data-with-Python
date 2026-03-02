@@ -141,7 +141,7 @@ Jupyter Notebook
 ![Gender Distribution](images/gender_distribution.png)
 ![Medals Distribution ](images/medal_distribution.png)
 ![Number of Athletes](images/number_of_athletes.png)
-![Participation](images/participation..png)
+![Participation](images/participation.png)
 ![Top Countries by Medals](images/top_countries.png)
 
 
